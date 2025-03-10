@@ -2,6 +2,8 @@
 
 This is a simple CMake project to test the CMake configuration for the C++ courses.
 
+This project can be found on [github](https://github.com/chuckmccullough85/CppInstallTest).
+
 ## Prerequisites
 -- CMake 3.20 or higher - [Download](https://cmake.org/download/)
 -- C++ Compiler (GCC, Clang, MSVC, etc.)  - Make sure the compiler is C++ 20 compliant or higher.
