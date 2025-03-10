@@ -46,6 +46,10 @@ This project can be found on [github](https://github.com/chuckmccullough85/CppIn
 See *Troubleshooting* below for common issues if the build fails.
 
 ### Visual Studio Code
+
+> Note:  Microsoft provides a good tutorial on installing and configuring Visual Studio Code for C++ development.  You can find it [here](https://code.visualstudio.com/docs/cpp/introvideos-cpp).  The subtopics on the left side of the page provide more detailed information on setting up the C++ development environment on different platforms.
+
+
 1. Start Visual Studio Code
 2. If you want to clone the test project, choose *Clone Repository* and paste the URL of this repository.
 3. If you downloaded the project as a zip file, unzip it and choose *Open Folder* and open the folder containing *CMakeLists.txt* file and the subfolders *Console* and *GoogleTest*
